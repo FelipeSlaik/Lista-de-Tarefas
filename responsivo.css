@@ -1,0 +1,39 @@
+@media (max-width: 825px) {
+    body {
+        background: url(/img/fotos-de-paisagens_o1f9f43uqg1iol1u491f86mpq19gse.jpg);
+        background-size: auto;
+        background-repeat: repeat;
+        user-select: none;
+        
+    }
+}
+
+@media (max-width: 500px){
+    .container {
+        background-color: rgb(133, 123, 139);
+        width: 350px;
+        border-radius: 10px;
+        padding: 20px;
+        margin: 100px auto 0;
+    
+    }
+}
+
+@media (max-width: 500px) {
+    .input-task{
+        border: none;
+        border-radius: 5px;
+        width: 180px;
+        height: 40px;
+        padding-left: 10px;
+        letter-spacing:-1px;
+    }
+}
+
+@media (max-width: 720px){
+    img {
+        height: 25px;
+        opacity: 1;
+    }
+    
+}
